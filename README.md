@@ -24,10 +24,3 @@ Veuillez réaliser une liste de film sur la partie gauche de l'écran et une lis
 Lorsque je clique sur l'un des films de la liste de gauche, il rejoint la liste des favoris. 
 
 Chaque ligne de la liste des favoris disposent d'une croix permettant de le supprimer de la liste des favoris. IL rejoint alors la liste des films de gauche. 
-
-
-Veuillez développer sur une branche 'prénom-nom'. Pour push vous devrez être déclarer comme collaborateur sur le github. Pour cela, veuillez nous envoyer votre github par mail. 
-
-Une fois cela réalisé veuillez remplir le formulaire suivant : 
-
-https://docs.google.com/forms/d/e/1FAIpQLSd3h7rws_6V5oJM2g3k2t3ooP9GNJW9AhH1JfNFOwbEmigLBw/viewform?usp=sf_link
