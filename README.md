@@ -1,7 +1,5 @@
 ## Installation 
 
-Veuillez créer un fichier .env dans le dossier docker (prendre exemple sur le .env.example). 
-
 Vous devez au préalable disposer de docker / docker-compose / npm sur votre machine. 
 
 Veuillez ouvrir un terminal. Rendez vous à la racine du projet puis effectuer : 
