@@ -1,7 +1,3 @@
-# react-example
-
-Projet permettant l'expression la plus pure de talents francais !
-
 ## Installation 
 
 Veuillez créer un fichier .env dans le dossier docker (prendre exemple sur le .env.example). 
